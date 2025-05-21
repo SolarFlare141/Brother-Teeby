@@ -1,9 +1,9 @@
 function lightMode(){
-    document.body.style.backgroundColor="white";
+    document.body.style.backgroundColor="#c0c0c0";
     document.body.style.color="black";
 }
 function darkMode(){
-    document.body.style.backgroundColor="black";
+    document.body.style.backgroundColor="#242124";
     document.body.style.color="white";
 }
 function Reset(){
